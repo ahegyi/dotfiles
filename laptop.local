@@ -1,0 +1,39 @@
+#!/bin/sh
+
+# Regular Brews
+brew install fish
+brew install cowsay
+brew install fortune
+brew install git
+brew install wget
+
+# Marker Specific Brews
+brew install memcached
+
+# Cask Time!
+
+brew install caskroom/cask/brew-cask
+
+# Currently no casks for:
+# From Mac App Store: Slicer
+# From Mac App Store: Sunrise
+# From Mac App Store: Twitter
+
+brew cask install dropbox
+brew cask install time-out
+brew cask install slack
+brew cask install onepassword
+brew cask install alfred
+brew cask install google-chrome
+brew cask install spotify
+brew cask install flux
+brew cask install firefox
+brew cask install sublime-text
+brew cask install google-refine
+brew cask install skitch
+brew cask install pgadmin3
+brew cask install iphone-configuration-utility
+brew cask install dash
+
+# Marker Specific Casks
+brew cask install tilemill
