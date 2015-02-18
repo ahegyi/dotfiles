@@ -35,5 +35,5 @@ brew cask install pgadmin3
 brew cask install iphone-configuration-utility
 brew cask install dash
 
-# Marker Specific Casks
-brew cask install tilemill
+# Additions
+brew cask install skype
